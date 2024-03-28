@@ -1,4 +1,4 @@
-package com.github.taojintianxia.cornucopia;
+package $com.github.taojintianxia.cornucopia;
 
 /**
  * Hello world!

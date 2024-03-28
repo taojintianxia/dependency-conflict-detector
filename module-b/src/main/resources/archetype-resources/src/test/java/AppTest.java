@@ -1,4 +1,4 @@
-package com.github.taojintianxia.cornucopia;
+package $com.github.taojintianxia.cornucopia;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
